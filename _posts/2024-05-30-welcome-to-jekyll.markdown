@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-05-30 14:37:22 +0900
-categories: jekyll update
+title:  "추천 알고리즘 정리 [쇼핑몰 프로젝트]"
+date:   2024-06-09 22:00:00 +0900
+categories: recommend update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# 추천 알고리즘
+
+### 쇼핑몰 프로젝트에 간단하게 사용하기 위한 용도
+
+추천 알고리즘에는 Content Based Filtering(콘텐츠 기반 필터링)과 Collaborative Filtering(협업 필터링)이 존재한다.
+
+
+---
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
