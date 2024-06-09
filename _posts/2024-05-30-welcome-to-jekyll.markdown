@@ -22,6 +22,7 @@ categories: recommend update
 예를 들면, 사용자가 장거리 달리기에 적합한 런닝화를 구매한 경우, 장거리 달리기에 특화된 런닝화들이 추천목록에 올라오는 것이다.
 
 ![alt](https://img.gqkorea.co.kr/gq/2023/03/style_6414b4e977553.jpg)
+![alt](https://img.gqkorea.co.kr/gq/2023/03/style_6414b4e7b372c.jpg)
 
 <br>
 
