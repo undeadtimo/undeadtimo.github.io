@@ -11,6 +11,9 @@ categories: recommend update
 
 추천 알고리즘에는 Content Based Filtering(콘텐츠 기반 필터링)과 Collaborative Filtering(협업 필터링)이 존재한다.
 
+![alt](https://www.researchgate.net/publication/337401660/figure/fig1/AS:827362874777603@1574270089942/The-principle-behind-collaborative-and-content-based-filtering-9-Pilah-Matur-App.ppm)
+
+출처 : Designing of Recommendation Engine for Recyclalbe Waste Mobile App
 
 ---
 
